@@ -81,6 +81,9 @@ Congratulations! You guessed the correct number in 4 attempts.
 
 ---
 
+## 🔗 Project URL
+https://github.com/Bhuveshtyagi/Number-Guessing-Game/tree/main
+
 ## 🛠️ Future Improvements
 
 - Input validation for non-numeric user inputs.
