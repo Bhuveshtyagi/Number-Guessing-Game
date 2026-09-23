@@ -82,7 +82,7 @@ Congratulations! You guessed the correct number in 4 attempts.
 ---
 
 ## 🔗 Project URL
-https://github.com/Bhuveshtyagi/Number-Guessing-Game/tree/main
+https://roadmap.sh/projects/number-guessing-game
 
 ## 🛠️ Future Improvements
 
