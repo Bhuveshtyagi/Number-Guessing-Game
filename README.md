@@ -12,7 +12,7 @@ A simple and interactive command-line Number Guessing Game written in Python. Th
   - **Medium**: 5 chances
   - **Hard**: 3 chances
 - **Real-time Feedback**: Provides hints whether your guess is `"too high"` or `"too low"`.
-- **Remaining Chances Tracker**: Displays remaining attempts after each guess.
+- **Remaining Chances Tracker**: Displays remaining chances after each guess.
 - **Score & Attempt Counter**: Shows the total number of attempts taken to guess correctly upon winning.
 - **Zero External Dependencies**: Built strictly using Python's built-in `random` module.
 
