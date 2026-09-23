@@ -75,7 +75,7 @@ Congratulations! You guessed the correct number in 4 attempts.
 ## 📁 Project Structure
 
 ```text
-├── merge_audio_video.py   # Main Python game script
+├── project.py   # Main Python game script
 └── README.md              # Project documentation
 ```
 
